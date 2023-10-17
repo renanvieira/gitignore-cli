@@ -7,5 +7,6 @@ edition = "2021"
 
 [dependencies]
 console = "0.15.7"
+exitcode = "1.1.2"
 include_dir = "0.7.3"
 inquire = "0.6.2"
